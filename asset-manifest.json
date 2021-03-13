@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Leadersboard_React_App/static/css/main.ea54f82e.chunk.css",
+    "main.js": "/Leadersboard_React_App/static/js/main.75d4b82e.chunk.js",
+    "main.js.map": "/Leadersboard_React_App/static/js/main.75d4b82e.chunk.js.map",
+    "runtime-main.js": "/Leadersboard_React_App/static/js/runtime-main.71565384.js",
+    "runtime-main.js.map": "/Leadersboard_React_App/static/js/runtime-main.71565384.js.map",
+    "static/js/2.4dd7275c.chunk.js": "/Leadersboard_React_App/static/js/2.4dd7275c.chunk.js",
+    "static/js/2.4dd7275c.chunk.js.map": "/Leadersboard_React_App/static/js/2.4dd7275c.chunk.js.map",
+    "index.html": "/Leadersboard_React_App/index.html",
+    "precache-manifest.a8a58a2d5c4cdc55e91f4901f372c63c.js": "/Leadersboard_React_App/precache-manifest.a8a58a2d5c4cdc55e91f4901f372c63c.js",
+    "service-worker.js": "/Leadersboard_React_App/service-worker.js",
+    "static/css/main.ea54f82e.chunk.css.map": "/Leadersboard_React_App/static/css/main.ea54f82e.chunk.css.map",
+    "static/js/2.4dd7275c.chunk.js.LICENSE.txt": "/Leadersboard_React_App/static/js/2.4dd7275c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71565384.js",
+    "static/js/2.4dd7275c.chunk.js",
+    "static/css/main.ea54f82e.chunk.css",
+    "static/js/main.75d4b82e.chunk.js"
+  ]
+}
